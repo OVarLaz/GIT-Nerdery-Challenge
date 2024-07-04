@@ -15,3 +15,7 @@ This is the second task
 ### Task 3
 
 This is the third task
+
+## image
+
+![Alt text](images/git-image.png)
